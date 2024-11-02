@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22a62fe9-82ed-4412-bace-0821c99cd4bd" name="Changes" comment="">
+      <changelist_data name="a_ponomarenko13" email="" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/exception/SellerIsBusyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/exception/WrongDateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/exception/WrongSellerTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/model/Specialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/model/buyer/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/model/seller/Consultant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/model/seller/Merchandiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/model/seller/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/service/BuyerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5/service/SellerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +29,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="a_ponomarenko13" />
+        <option value="aponomarenko13" />
+        <option value="aponomaren" />
+        <option value="nasty" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oI2FAwYy6FM1oXcSLFtvBWHaEn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,7 +52,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Huawei/IdeaProjects/Task5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,5 +66,16 @@
       <updated>1730542662768</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
